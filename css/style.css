@@ -198,13 +198,14 @@ section {
 	border-bottom: 1px solid #9e9090;
 }
 #queries .row .row-list p {
-	display: none;
 	font-size: 14px;
 	letter-spacing: 1px;
 	line-height: 24px;
 	width: 76%;
-	padding: 18px;
+	padding: 0px 18px;
+	height: 0px;
 	transition: 0.5s all;
+	overflow: hidden;
 }
 
 .address-list {

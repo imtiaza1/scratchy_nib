@@ -1,6 +1,7 @@
 // nav js
 let img = document.getElementById("img");
 let menu = document.getElementById("menu");
+menu.style.transform = "translateX(500px)";
 
 img.addEventListener("click", function () {
 	if (menu.style.transform === "translateX(500px)") {
@@ -142,73 +143,78 @@ let list4 = document.getElementById("list-4");
 let list5 = document.getElementById("list-5");
 let list6 = document.getElementById("list-6");
 
+pera1.style.height = "0px";
 icon1.addEventListener("click", function () {
-	if (pera1.style.display === "none") {
-		pera1.style.display = "block";
+	if (pera1.style.height === "0px") {
+		pera1.style.height = "80px";
 		icon1.style.transform = "rotate(179deg)";
 		list1.style.color = "#9e9090";
 	} else {
-		pera1.style.display = "none";
+		pera1.style.height = "0px";
 		icon1.style.transform = "rotate(0deg)";
 		list1.style.color = "black";
 	}
 });
-
+pera2.style.height = "0px";
 icon2.addEventListener("click", function () {
-	if (pera2.style.display === "none") {
-		pera2.style.display = "block";
+	if (pera2.style.height === "0px") {
+		pera2.style.height = "80px";
 		icon2.style.transform = "rotate(179deg)";
 		list2.style.color = "#9e9090";
 	} else {
-		pera2.style.display = "none";
+		pera2.style.height = "0px";
 		icon2.style.transform = "rotate(0deg)";
 		list2.style.color = "black";
 	}
 });
 
+pera3.style.height = "0px";
 icon3.addEventListener("click", function () {
-	if (pera3.style.display === "none") {
-		pera3.style.display = "block";
+	if (pera3.style.height === "0px") {
+		pera3.style.height = "80px";
 		icon3.style.transform = "rotate(179deg)";
 		list3.style.color = "#9e9090";
 	} else {
-		pera3.style.display = "none";
+		pera3.style.height = "0px";
 		icon3.style.transform = "rotate(0deg)";
 		list3.style.color = "black";
 	}
 });
 
+pera4.style.height = "0px";
 icon4.addEventListener("click", function () {
-	if (pera4.style.display === "none") {
-		pera4.style.display = "block";
+	if (pera4.style.height === "0px") {
+		pera4.style.height = "80px";
 		icon4.style.transform = "rotate(179deg)";
 		list4.style.color = "#9e9090";
 	} else {
-		pera4.style.display = "none";
+		pera4.style.height = "0px";
 		icon4.style.transform = "rotate(0deg)";
 		list4.style.color = "black";
 	}
 });
 
+pera5.style.height = "0px";
 icon5.addEventListener("click", function () {
-	if (pera5.style.display === "none") {
-		pera5.style.display = "block";
+	if (pera5.style.height === "0px") {
+		pera5.style.height = "80px";
 		icon5.style.transform = "rotate(179deg)";
 		list5.style.color = "#9e9090";
 	} else {
-		pera5.style.display = "none";
+		pera5.style.height = "0px";
 		icon5.style.transform = "rotate(0deg)";
 		list5.style.color = "black";
 	}
 });
 
+pera6.style.height = "0px";
 icon6.addEventListener("click", function () {
-	if (pera6.style.display === "none") {
-		pera6.style.display = "block";
+	if (pera6.style.height === "0px") {
+		pera6.style.height = "80px";
 		icon6.style.transform = "rotate(179deg)";
 		list6.style.color = "#9e9090";
 	} else {
-		pera6.style.display = "none";
+		pera6.style.height = "0px";
 		icon6.style.transform = "rotate(0deg)";
 		list6.style.color = "black";
 	}
