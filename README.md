@@ -1,7 +1,7 @@
 # ✒️ Scratchy Nib - A Complete Calligraphy Showcase
 
 ## 📝 Description
-**Scratchy Nib** is a frontend project that provides a comprehensive showcase of **all calligraphy styles** from various historical periods and cultures. Developed as part of my studies at **Aptech**, this project allows users to explore, learn about, and appreciate a wide variety of traditional calligraphy. From ancient scripts to modern artistic styles, the platform offers a rich experience for anyone interested in the art of calligraphy.
+**Scratchy Nib** is a frontend project that provides a comprehensive showcase of **all calligraphy styles** from various historical periods and cultures. This project allows users to explore, learn about, and appreciate a wide variety of traditional calligraphy. From ancient scripts to modern artistic styles, the platform offers a rich experience for anyone interested in the art of calligraphy.
 
 The project utilizes **HTML**, **CSS**, and **JavaScript** to present these diverse calligraphy styles in a visually engaging way, creating an interactive gallery of calligraphic works.
 
@@ -42,15 +42,7 @@ The project utilizes **HTML**, **CSS**, and **JavaScript** to present these dive
 
 ---
 
-## 🙌 Acknowledgements
-Special thanks to **Aptech** for providing the resources and platform to bring this project to life.
-
----
-
 ## 📜 License
 This project is licensed under the **MIT License**. Feel free to contribute and modify it!
 
 ---
-
-## 🖋️ Author
-Developed by **[Imtiaz Ali](https://github.com/imtiaza1)**.
